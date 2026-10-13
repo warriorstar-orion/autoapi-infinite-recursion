@@ -1,0 +1,4 @@
+pkg_bad
+=======
+
+.. toctree::
